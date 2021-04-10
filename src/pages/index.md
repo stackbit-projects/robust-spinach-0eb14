@@ -9,7 +9,7 @@ intro_content: >-
 intro_actions:
   - label: Learn More
     url: /about
-    style: link
+    style: primary
   - label: Contact
     url: /contact
     style: secondary
